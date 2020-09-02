@@ -2,4 +2,4 @@
 
 1. Using Java
 2. Using Java Spring boot hibernate
-3. Using Javascript
+3. Using React
